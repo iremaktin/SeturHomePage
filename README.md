@@ -1,6 +1,6 @@
 Proje Hakkında
 
-Bu proje, Setur web sitesinin fonksiyonel testlerini otomatikleştirmek amacıyla geliştirilmiştir. Browser MCP , GPT-4  diğer araçlar sayesinde test süreçleri hızlandırılmış ve optimize edilmiştir. Proje geliştirme aşamasındadır .
+Bu proje, Setur web sitesinin fonksiyonel testlerini otomatikleştirmek amacıyla geliştirilmektedir. Browser MCP ve diğer yapay zeka araçları sayesinde test süreçleri hızlandırılmış ve optimize edilmektedir. Proje geliştirme aşamasındadır .
 
 
 
